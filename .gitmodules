@@ -1,0 +1,3 @@
+[submodule "xs_python_lib"]
+	path = xs_python_lib
+	url = https://github.com/xsthunder/python-lib.git
