@@ -65,4 +65,5 @@ type data_struct = {
 ```
 
 ## step two
-put your convention code in `main.ipynb`, read from `input_data`, write to `output_data`
+
+put your convention code in `main.ipynb`, read from `input_data`, write to `output_data`, see example in `main.ipynb`
