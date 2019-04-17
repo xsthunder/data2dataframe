@@ -50,18 +50,20 @@ type data_struct = {
 #### example
 
 ```json
-["example.xlsx":{
-    "column2pos": {
-        "note_id": 0,
-        "value": 1,
-        "person_id": 2,
-    },
-    "columns": [
-        "note_id",
-        "value",
-        "person_id",
-    ]
-}]
+{
+"example.xlsx":{
+        "column2pos": {
+            "note_id": 0,
+            "value": 1,
+            "person_id": 2,
+        },
+        "columns": [
+            "note_id",
+            "value",
+            "person_id",
+        ]
+    }
+}
 ```
 
 ## step two
