@@ -12,7 +12,7 @@
 # setup
 ## dependency
 
-it's recommaned to install a new environment use [this script](https://github.com/xsthunder/linux-setting/blob/master/bash-script/conda/create-clean-data.sh)
+it's recommaned to install a new environment using [this script](https://github.com/xsthunder/linux-setting/blob/master/bash-script/conda/create-clean-data.sh)
 
 ## installation
 
